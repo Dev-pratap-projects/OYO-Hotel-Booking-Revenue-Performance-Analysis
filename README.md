@@ -40,11 +40,11 @@
 
 ## Charts
 
-![Cancellation rate by city](images/cancellation_rate_by_city.png)
+![Cancellation rate by city]("C:\Users\yashp\Downloads\Placement Resume\cancellation_rate_by_city.png")
 
-![Net revenue per hotel](images/net_revenue_per_hotel.png)
+![Net revenue per hotel]("C:\Users\yashp\Downloads\Placement Resume\net_revenue_per_hotel.png")
 
-![Booking lead time](images/booking_lead_time.png)
+![Booking lead time]("C:\Users\yashp\Downloads\Placement Resume\booking_lead_time.png")
 
 ## Business Questions
 
