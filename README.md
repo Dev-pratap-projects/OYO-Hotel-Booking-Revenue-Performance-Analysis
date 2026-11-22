@@ -185,11 +185,3 @@ Hotel-Booking-Revenue-Analysis/
 │   └── booking_lead_time.png
 └── README.md
 ```
-
-## Credits
-
-The dataset and the original set of business questions come from the OYO business case study in [AmitPatel-analyst/SQL-Case-Study](https://github.com/AmitPatel-analyst/SQL-Case-Study/tree/main/OYO%20business%20case%20study). This repository reproduces that analysis and extends it with net revenue per hotel, a corrected new-vs-repeat customer count, the revenue-at-risk finding and a revised set of recommendations.
-
-## Author
-
-**Your Name** | [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)
